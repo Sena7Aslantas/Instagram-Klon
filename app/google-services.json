@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207027810177",
+    "project_id": "uygulama-f418e",
+    "storage_bucket": "uygulama-f418e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207027810177:android:b8027f8fe88d6bf41a0280",
+        "android_client_info": {
+          "package_name": "com.senaaslantas.uygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207027810177-fhaos6kbo8sk0qad0faru5mjgr0edhci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRe5c-_LQ4j4JEKnGc7KEVdWkPB-8SKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207027810177-fhaos6kbo8sk0qad0faru5mjgr0edhci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
